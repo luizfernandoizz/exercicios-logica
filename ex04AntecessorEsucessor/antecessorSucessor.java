@@ -10,7 +10,7 @@ public class antecessorSucessor {
 
 
         int numero, antecessor, sucessor;
-        
+
         System.out.print("Digite um numero inteiro: ");
         numero = sc.nextInt();
 
